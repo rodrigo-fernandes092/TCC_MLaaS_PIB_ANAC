@@ -7,6 +7,7 @@ Este trabalho, tem como objetivo de realizar uma comparação entre os modelos d
 ### Fonte:
 Os dados estão disponíveis em sites públicos:
 - Passagens Aéreas - [ANAC](https://sas.anac.gov.br/sas/downloads/view/frmDownload.aspx?tema=14)
+- Produto Interno Bruto - [IBGE](https://ftp.ibge.gov.br/Pib_Municipios/2021/base/)
 ----
 ## Etapas do Projeto
 ### ETL
