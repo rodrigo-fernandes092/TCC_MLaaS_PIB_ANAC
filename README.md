@@ -7,3 +7,7 @@ Este trabalho, tem como objetivo de realizar uma comparação entre os modelos d
 ### Fonte:
 Os dados estão disponíveis em sites públicos:
 - Passagens Aéreas - [ANAC](https://sas.anac.gov.br/sas/downloads/view/frmDownload.aspx?tema=14)
+----
+## Etapas do Projeto
+### ETL
+- 1° Nesta [etapa](https://github.com/rodrigo-fernandes092/TCC_MLaaS_PIB_ANAC/blob/main/ETL/01_Unificando_Dados_parquet.ipynb) os dados foram carregados, unificados e salvos em parquet.
